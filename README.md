@@ -1,7 +1,7 @@
 # Resume-and-CV-Summarization-and-Parsing-with-Spacy-in-Python
 Resume and CV Summarization and Parsing with Spacy in Python
 
-Download this required file and follw along the video with line by line code explanation. YouTube video is available at: https://youtu.be/HJy11kOlgvk
+
 
 
 Data preparation is the most difficult task in this lesson. Unless you have large dataset you might not get good result. 
